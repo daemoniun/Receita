@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(250, 232, 215);
+}
+.lasa{
+    color :rgb(0, 0, 0);
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.img{
+    text-align: center;
+}
+.links{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: 600;
+}
